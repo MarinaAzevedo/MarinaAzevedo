@@ -5,8 +5,10 @@ I am a professional transitioning into the fields of Data Science and Analytics,
 Let’s connect and explore the power of data together! 🚀
 
 ## 🔬 Background
-🎓 Education: <br>
-💼 Professional Experience: Controlling & Data Reporting Specialist @Bosch 
+🎓 Education: Data Science & Business Analytics @EDIT & Master Degree in Accounting & Management Control @University of Aveiro <br>
+💼 Professional Experience: 
+    - Controlling & Data Reporting Specialist @Bosch <br>
+    - Power BI Trainer @Cesae Digital
     
 
 ## 🎓 Certifications
