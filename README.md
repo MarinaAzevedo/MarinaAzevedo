@@ -7,7 +7,7 @@ Let’s connect and explore the power of data together! 🚀
 ## 🔬 Background
 🎓 Education: <br>
     - Data Science & Business Analytics @EDIT <br>
-    - Master Degree in Accounting & Management Control @University of Aveiro 
+    - Master Degree in Accounting & Management Control @University of Aveiro <br>
 💼 Professional Experience: <br>
     - Controlling & Data Reporting Specialist @Bosch <br>
     - Power BI Trainer @Cesae Digital
