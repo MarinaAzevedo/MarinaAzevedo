@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Marina
 
-I am a professional transitioning into the fields of Data Analytics and Data Science, leveraging my background in Management Control to uncover insights and drive data-informed decisions. I am passionate about turning raw data into meaningful and actionable insights.
+I am a professional transitioning into the fields of Data Science and Analytics, leveraging my background in Management Control to uncover insights and drive data-informed decisions. I am passionate about turning raw data into meaningful and actionable insights.
 
 Let’s connect and explore the power of data together! 🚀
 
