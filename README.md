@@ -5,7 +5,7 @@ I am a professional transitioning into the fields of Data Analytics and Data Sci
 Let’s connect and explore the power of data together! 🚀
 
 ## 🔬 Background
-🎓 Education:
+🎓 Education: <br>
 💼 Professional Experience: Controlling & Data Reporting Specialist @Bosch 
     
 
@@ -13,11 +13,11 @@ Let’s connect and explore the power of data together! 🚀
 
 
 ## ⚡ Soft Skills
-Programming Languages: Python
-Data Analysis: Pandas, NumPy
-Machine Learning: Scikit-Learn
-Data Visualization: Power BI
-Database: SQL
+Programming Languages: Python <br>
+Data Analysis: Pandas, NumPy <br>
+Machine Learning: Scikit-Learn <br>
+Data Visualization: Power BI <br>
+Database: SQL <br>
 Tools: Jupyter Notebooks, GitHub
 
 ## 📊 Projects
