@@ -5,8 +5,8 @@ I am a professional transitioning into the fields of Data Analytics and Data Sci
 Let’s connect and explore the power of data together! 🚀
 
 🔬 Background
-🎓 Education: I hold a degree in Biomedical Engineering, where I gained a solid foundation in both healthcare, statistics and engineering principles.
-💼 Professional Experience: I completed a curricular internship working on Glintt's 'WoW Project', inserted on the health informatics and Internet of Things (IoT) domains.
+🎓 Education:
+💼 Professional Experience:
 
 🎓 Certifications
 
