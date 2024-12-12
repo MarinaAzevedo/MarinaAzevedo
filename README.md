@@ -6,12 +6,13 @@ Let’s connect and explore the power of data together! 🚀
 
 ## 🔬 Background
 🎓 Education:
-💼 Professional Experience:
+💼 Professional Experience: Controlling & Data Reporting Specialist @Bosch 
+    
 
 ## 🎓 Certifications
 
 
-## 🚀 Soft Skills
+## ⚡ Soft Skills
 Programming Languages: Python
 Data Analysis: Pandas, NumPy
 Machine Learning: Scikit-Learn
@@ -23,7 +24,7 @@ Tools: Jupyter Notebooks, GitHub
 Here are some projects where I practiced my skills:
 
 
-## 📫 Let's Connect!
+## 💬 Let's Connect!
 📧 Email: marinaazevedo@ua.pt
 💼 LinkedIn: 
 
