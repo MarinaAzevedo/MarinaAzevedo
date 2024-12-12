@@ -25,12 +25,12 @@ Here are some projects where I practiced my skills:
 
 
 ## 💬 Let's Connect!
-📧 Email: marinaazevedo@ua.pt
-💼 LinkedIn: 
+📧 Email: marinaazevedo@ua.pt <br>
+💼 LinkedIn: [Profile](https://www.linkedin.com/in/marina-azevedo11/)
 
 ## 👩‍💻 Looking for Opportunities
-I am actively seeking opportunities in the fields of data science and analytics. 
-If you have any exciting job opportunities, don't hesitate to reach out!
+I am actively seeking opportunities in the fields of data science and analytics. <br>
+So, if you have any exciting job opportunities, don't hesitate to reach out!
 
 Thanks for visiting my GitHub profile! 🚀
 
