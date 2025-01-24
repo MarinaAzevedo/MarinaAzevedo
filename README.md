@@ -20,7 +20,7 @@ Let’s connect and explore the power of data together! 🚀
 Programming Languages: Python <br>
 Data Analysis: Pandas, NumPy <br>
 Machine Learning: Scikit-Learn <br>
-Data Visualization: Power BI, Matplotlib <br>
+Data Visualization: Power BI, Matplotlib, Looker Studio <br>
 Database: SQL <br>
 Tools: Jupyter Notebooks, GitHub
 
