@@ -26,7 +26,9 @@ Tools: Jupyter Notebooks, GitHub
 
 ## 📊 Projects
 Here are some projects where I practiced my skills:
-- https://github.com/MarinaAzevedo/ML_project.git
+
+- Discounts for expired products (Pink labels) - ML project
+         https://github.com/MarinaAzevedo/ML_project.git
 
 
 ## 💬 Let's Connect!
