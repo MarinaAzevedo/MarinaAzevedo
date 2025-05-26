@@ -35,6 +35,9 @@ Here are some projects where I practiced my skills:
 📧 Email: marinaazevedo@ua.pt <br>
 💼 LinkedIn: [Profile](https://www.linkedin.com/in/marina-azevedo11/)
 
+
+power bi: <https://app.powerbi.com/view?r=eyJrIjoiMTJkNzc2ZDUtNzJmOC00Mjc5LTg0YTMtZmYzM2IyNTUzZDczIiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9>
+
 ## 👩‍💻 Looking for Opportunities
 I am actively seeking opportunities in the fields of data science and analytics. <br>
 So, if you have any exciting job opportunities, don't hesitate to reach out!
